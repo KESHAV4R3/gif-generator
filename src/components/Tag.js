@@ -3,7 +3,7 @@ import useGif from '../hooks/useGif';
 import { Atom } from 'react-loading-indicators'
 const Random = () => {
 
-  const [inputData, setInputData] = useState('tom and jerry');
+  const [inputData, setInputData] = useState('boobs');
 
 
   function clickHandler() { fetchGif() }
